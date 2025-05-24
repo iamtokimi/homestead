@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "betterendfix",
+  "version": "1.0.3",
+  "name": "Better End Fix",
+  "description": "Written by Navinor, resets the End dimension generator from BetterX to Vanilla",
+  "authors": ["The Homestead Team"],
+  "entrypoints": {
+    "main": [ "com.homestead.BetterEndFix" ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "fabric": "*",
+    "minecraft": "~1.20.1",
+    "java": ">=17"
+  }
+}
