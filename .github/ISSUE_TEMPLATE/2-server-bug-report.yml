@@ -1,7 +1,7 @@
 name: Server Bug Report
 description: Report Server Bugs/Crashes here
 title: "[Bug]: "
-labels: ["server"]
+labels: [ "server" ]
 body:
   - type: markdown
     attributes:
@@ -68,7 +68,7 @@ body:
     id: system_info
     attributes:
       label: System Information
-      description: Please include information on your system, such as OS, Hoster Used, Modpack Version, and other additional specs
+      description: Please include information on your system, such as OS, Hoster Used, Modpack Version, and other additional specs.
       value: |-
         OS: [e.g. Windows 11, macOS Sequoia 15, Linux Ubuntu 22.04]
         Server Hoster: [e.g. Docker, Modrinth Servers, Bisect Hosting]
@@ -81,6 +81,6 @@ body:
     id: misc
     attributes:
       label: Miscellaneous information
-      description: Any additional information, related issues, configuration or data that might be necessary to reproduce the issue
+      description: Any additional information, related issues, configuration or data that might be necessary to reproduce the issue.
     validations:
       required: false

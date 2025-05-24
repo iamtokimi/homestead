@@ -1,7 +1,7 @@
 name: Client Bug Report
 description: Report Client Bugs/Crashes here
 title: "[Bug]: "
-labels: ["client"]
+labels: [ "client" ]
 body:
   - type: markdown
     attributes:
@@ -81,6 +81,6 @@ body:
     id: misc
     attributes:
       label: Miscellaneous information
-      description: Any additional information, related issues, configuration or data that might be necessary to reproduce the issue
+      description: Any additional information, related issues, configuration or data that might be necessary to reproduce the issue.
     validations:
       required: false
