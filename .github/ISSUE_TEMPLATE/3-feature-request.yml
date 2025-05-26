@@ -1,7 +1,7 @@
 name: Feature Request
 description: Request Features Here
 title: "[Feature Request]: "
-labels: ["feature request"]
+labels: [ "feature request" ]
 body:
   - type: markdown
     attributes:
@@ -30,13 +30,13 @@ body:
     id: verify
     attributes:
       label: Confirmation
-      description: 
+      description:
       options:
         - label: I confirm that this mod has an existing page on Modrinth.
           required: false
-        - label: I confirm that I have thoroughly tested this mod with Homestead and have found no compatibility issues. 
+        - label: I confirm that I have thoroughly tested this mod with Homestead and have found no compatibility issues.
           required: false
-        
+
   - type: textarea
     id: contact
     attributes:
