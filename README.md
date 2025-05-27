@@ -3,5 +3,5 @@
 	Homestead - BetterEnd Migration Patch<br>
 </h1>
 <p align="center">
-	<a href="https://docs.google.com/document/d/129MBS0CDVR11j-qGWBz6AnrHxUpspSdqMapPyKDKH-4/edit?tab=t.0#heading=h.kllw1pvadu4u">Read the Documentation</a>
+	<a href="https://docs.google.com/document/d/129MBS0CDVR11j-qGWBz6AnrHxUpspSdqMapPyKDKH-4">Read the Documentation</a>
 </p>
