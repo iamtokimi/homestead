@@ -43,7 +43,7 @@ body:
       label: Contact Information
       description: In case we decide to follow up with you privately on this feature request, please send your discord username (or another preferred manner of communication).
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: misc
